@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [jeeperjinks.com](jeeperjinks.com)
 
-- 📝 I regularly write articles on [http://www.jeeperjinks.com](http://www.jeeperjinks.com)
-
 - 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **jakewithjack@yahoo.com**
