@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm JakeJeeperjinks</h1>
-<h3 align="center">I'm a webdev learning more languages in the future!</h3>
+<h3 align="center">I'm a webdev learning programming languages!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakejeeperjinks&label=Profile%20views&color=0e75b6&style=flat" alt="jakejeeperjinks" /> </p>
 
