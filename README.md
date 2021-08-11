@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Javascript, PostgreSQL, MongoDB, C#, React**
 
-- 👨‍💻 All of my projects are available at [http://jeeperjinks.com](jeeperjinks.com)
+- 👨‍💻 All of my projects are available at [jeeperjinks.com](http://jeeperjinks.com)
 
 - 💬 Ask me about **HTML, CSS, JS**
 
