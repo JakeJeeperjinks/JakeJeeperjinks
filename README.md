@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **HTML, CSS, JS**
 
-- 📫 How to reach me **jakewithjack@yahoo.com**
+- 📫 How to reach me **JakeJeeperjinks#0001*** on Discord
+
+<!-- **jakewithjack@yahoo.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
